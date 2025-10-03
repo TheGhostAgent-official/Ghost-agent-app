@@ -1,0 +1,9 @@
+/ (repo root)
+  /Ghost-agent-app
+    package.json
+    next.config.js
+    app/
+      page.tsx
+      api/
+        agent/
+          route.ts
